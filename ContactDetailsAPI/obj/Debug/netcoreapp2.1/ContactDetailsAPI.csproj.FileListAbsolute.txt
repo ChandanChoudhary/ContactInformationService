@@ -11,3 +11,4 @@ C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsAPI\obj\Debug\
 C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsAPI\obj\Debug\netcoreapp2.1\ContactDetailsAPI.RazorTargetAssemblyInfo.cache
 C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsAPI\obj\Debug\netcoreapp2.1\ContactDetailsAPI.dll
 C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsAPI\obj\Debug\netcoreapp2.1\ContactDetailsAPI.pdb
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsAPI\obj\Debug\netcoreapp2.1\ContactDetailsAPI.csprojAssemblyReference.cache

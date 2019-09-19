@@ -9,7 +9,8 @@
          $scope.msg = "";
        $scope.order = function (predicate) {
         $scope.reverse = ($scope.predicate === predicate) ? !$scope.reverse : false;
-    $scope.predicate = predicate;
+           $scope.predicate = predicate;
+           $scope.emailError = '';
          };
 
 
@@ -38,6 +39,7 @@
 
          $scope.getContactInfo = function (contactId) {
              $scope.msg = "";
+             $scope.fnameError = ''; $scope.lnameError = ''; $scope.emailError = ''; $scope.phoneError = '';
              if (contactId > 0) {
                  $http({
                      method: "GET",
@@ -73,6 +75,7 @@
                      $scope.msg = "Contacts saved successfully";
                  else
                      $scope.msg = "Contacts updated successfully";
+                 $scope.fnameError = ''; $scope.lnameError = ''; $scope.emailError = ''; $scope.phoneError = '';
                  $('#exampleModalCenter').modal('toggle');
                  $http({
                      method: "GET",
@@ -98,7 +101,19 @@
 
 
              }, function myError(response) {
-                     $scope.msg = response.statusText;
+                     $scope.fnameError = ''; $scope.lnameError = ''; $scope.emailError = ''; $scope.phoneError = '';
+                     if (response.data.Fname) {
+                         $scope.fnameError = response.data.Fname[0];
+                     }
+                     if (response.data.Lname) {
+                         $scope.lnameError = response.data.Lname[0];
+                     }
+                     if (response.data.Phone) {
+                         $scope.phoneError = response.data.Phone[0];
+                     }
+                     if (response.data.Email) {
+                         $scope.emailError = response.data.Email[0];
+                     }
              });
          }
 
@@ -139,7 +154,7 @@
 
 
                  }, function myError(response) {
-                     $scope.msg = response.statusText;
+                        
                  });
              
            

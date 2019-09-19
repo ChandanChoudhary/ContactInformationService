@@ -81,26 +81,26 @@
                     <div class="modal-body">
                         <form>
                             <div class="form-group row">
-                                <label for="inputFname" class="col-sm-4 col-form-label">First Name</label>
+                                <label for="inputFname" class="col-sm-4 col-form-label">First Name<span class="text-danger">*</span></label><span class="col-sm-4 text-danger"> {{fnameError}}</span>
                                 <div class="col-sm-8">
 
                                     <input type="text" class="form-control" Name="inputEmail" placeholder="First Name" ng-model="contactInfo.fname">
                                 </div>
                             </div>
                             <div class="form-group row">
-                                <label for="inputFname" class="col-sm-4 col-form-label">Last Name</label>
+                                <label for="inputFname" class="col-sm-4 col-form-label">Last Name <span class="text-danger">*</span></label><span class="col-sm-4 text-danger"> {{lnameError}}</span>
                                 <div class="col-sm-8">
                                     <input type="text" class="form-control" Name="inputEmail" placeholder="Last Name" ng-model="contactInfo.lname">
                                 </div>
                             </div>
                             <div class="form-group row">
-                                <label for="inputEmail" class="col-sm-4 col-form-label">Email</label>
+                                <label for="inputEmail" class="col-sm-4 col-form-label">Email</label><span class="col-sm-4 text-danger"> {{emailError}}</span>
                                 <div class="col-sm-8">
                                     <input type="email" class="form-control" Name="inputEmail" placeholder="Email" ng-model="contactInfo.email">
                                 </div>
                             </div>
                             <div class="form-group row">
-                                <label for="inputEmail" class="col-sm-4 col-form-label">Mobile</label>
+                                <label for="inputEmail" class="col-sm-4 col-form-label">Mobile</label><span class="col-sm-4 text-danger"> {{phoneError}}</span>
                                 <div class="col-sm-8">
                                     <input type="text" class="form-control" Name="inputPhone" placeholder="Mobile" ng-model="contactInfo.phone">
                                 </div>
