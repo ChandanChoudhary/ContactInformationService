@@ -1,0 +1,15 @@
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\ContactDetailsUnitText.deps.json
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\ContactDetailsUnitText.runtimeconfig.json
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\ContactDetailsUnitText.runtimeconfig.dev.json
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\ContactDetailsUnitText.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\bin\Debug\netcoreapp2.1\ContactDetailsUnitText.pdb
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\obj\Debug\netcoreapp2.1\ContactDetailsUnitText.csprojAssemblyReference.cache
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\obj\Debug\netcoreapp2.1\ContactDetailsUnitText.csproj.CoreCompileInputs.cache
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\obj\Debug\netcoreapp2.1\ContactDetailsUnitText.AssemblyInfoInputs.cache
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\obj\Debug\netcoreapp2.1\ContactDetailsUnitText.AssemblyInfo.cs
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\obj\Debug\netcoreapp2.1\ContactDetailsUnitText.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsUnitText\obj\Debug\netcoreapp2.1\ContactDetailsUnitText.pdb

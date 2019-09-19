@@ -1,0 +1,17 @@
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\ContactDetailsXUnitTest.deps.json
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\ContactDetailsXUnitTest.runtimeconfig.json
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\ContactDetailsXUnitTest.runtimeconfig.dev.json
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\ContactDetailsXUnitTest.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\ContactDetailsXUnitTest.pdb
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\obj\Debug\netcoreapp2.1\ContactDetailsXUnitTest.csprojAssemblyReference.cache
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\obj\Debug\netcoreapp2.1\ContactDetailsXUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\obj\Debug\netcoreapp2.1\ContactDetailsXUnitTest.AssemblyInfoInputs.cache
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\obj\Debug\netcoreapp2.1\ContactDetailsXUnitTest.AssemblyInfo.cs
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\obj\Debug\netcoreapp2.1\ContactDetailsXUnitTest.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\obj\Debug\netcoreapp2.1\ContactDetailsXUnitTest.pdb
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\ContactDetailsAPI.dll
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\bin\Debug\netcoreapp2.1\ContactDetailsAPI.pdb
+C:\Users\jchoudch\Desktop\Contact Info\Contact Info\ContactDetailsXUnitTest\obj\Debug\netcoreapp2.1\ContactDetailsXUnitTest.csproj.CopyComplete
