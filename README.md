@@ -28,3 +28,16 @@ Represents the client portion of the application that runs as a single-page-appl
 
 ## Contact Information Test Case
 Represents the Xunit Test for contacts details
+
+
+## Contact information API
+
+This section contains information about contact-related resources as used within the contact information API.
+
+ >| API | Verb | URL |
+ >|:--: |:--:  |:--: |
+ >|Get all contacts | GET | <https://{hostname}/api/contacts> |
+ >|Get single contacts  | GET | <https://{hostname}/api/contacts/{contactsId}> | 
+ >|Add  and edit contacts | POST  | <https://{hostname}/api/contacts> |
+ >|Delete contacts | DELETE | <https://{hostname}/api/contacts/contactsId>  |
+ 
